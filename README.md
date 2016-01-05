@@ -1,2 +1,2 @@
-# c_stub
-c_stub for studying
+# An example of c for stub
+only for studying
